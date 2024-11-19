@@ -1,0 +1,236 @@
+<schedule>
+	<pair>
+		<day>Понедельник</day>
+		<type>Лабораторная</type>
+		<type>pair_name: Основы профессиональной деятельности</type>
+		<weeks>
+			<week>3</week>
+			<week>5</week>
+			<week>7</week>
+			<week>9</week>
+			<week>11</week>
+			<week>13</week>
+			<week>15</week>
+			<week>17</week>
+		</weeks>
+		<time>
+			<week>start: 8:20</week>
+			<week>end: 9:50</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>2308</room>
+		</place>
+		<lecturer>
+			<surname>Остапенко</surname>
+			<name>Ольга</name>
+			<lastname>Денисовна</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Понедельник</day>
+		<type>Лабораторная</type>
+		<type>pair_name: Основы профессиональной деятельности</type>
+		<weeks>
+			<week>3</week>
+			<week>5</week>
+			<week>7</week>
+			<week>9</week>
+			<week>11</week>
+			<week>13</week>
+			<week>15</week>
+			<week>17</week>
+		</weeks>
+		<time>
+			<week>start: 10:00</week>
+			<week>end: 11:30</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>2308</room>
+		</place>
+		<lecturer>
+			<surname>Остапенко</surname>
+			<name>Ольга</name>
+			<lastname>Денисовна</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Понедельник</day>
+		<type>Лабораторная</type>
+		<type>pair_name: Основы профессиональной деятельности</type>
+		<weeks>
+			<week>2</week>
+			<week>4</week>
+			<week>6</week>
+			<week>8</week>
+			<week>10</week>
+			<week>12</week>
+			<week>14</week>
+			<week>16</week>
+			<week>18</week>
+		</weeks>
+		<time>
+			<week>start: 8:20</week>
+			<week>end: 9:50</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>2308</room>
+		</place>
+		<lecturer>
+			<surname>Остапенко</surname>
+			<name>Ольга</name>
+			<lastname>Денисовна</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Понедельник</day>
+		<type>Лабораторная</type>
+		<type>pair_name: Основы профессиональной деятельности</type>
+		<weeks>
+			<week>2</week>
+			<week>4</week>
+			<week>6</week>
+			<week>8</week>
+			<week>10</week>
+			<week>12</week>
+			<week>14</week>
+			<week>16</week>
+			<week>18</week>
+		</weeks>
+		<time>
+			<week>start: 10:00</week>
+			<week>end: 11:30</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>2308</room>
+		</place>
+		<lecturer>
+			<surname>Остапенко</surname>
+			<name>Ольга</name>
+			<lastname>Денисовна</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Суббота</day>
+		<type>Лабораторная</type>
+		<pair_name>Информатика</pair_name>
+		<weeks>
+			<week>1</week>
+			<week>3</week>
+			<week>5</week>
+			<week>7</week>
+			<week>9</week>
+			<week>11</week>
+			<week>13</week>
+			<week>15</week>
+		</weeks>
+		<time>
+			<week>start: 13:30</week>
+			<week>end: 15:00</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>1415</room>
+		</place>
+		<lecturer>
+			<surname>Балакшин</surname>
+			<name>Павел</name>
+			<lastname>Валерьевич</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Суббота</day>
+		<type>Лабораторная</type>
+		<pair_name>Информатика</pair_name>
+		<weeks>
+			<week>1</week>
+			<week>3</week>
+			<week>5</week>
+			<week>7</week>
+			<week>9</week>
+			<week>11</week>
+			<week>13</week>
+			<week>15</week>
+		</weeks>
+		<time>
+			<week>start: 15:20</week>
+			<week>end: 16:50</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>1415</room>
+		</place>
+		<lecturer>
+			<surname>Балакшин</surname>
+			<name>Павел</name>
+			<lastname>Валерьевич</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Суббота</day>
+		<type>Лабораторная</type>
+		<pair_name>Информатика</pair_name>
+		<weeks>
+			<week>2</week>
+			<week>4</week>
+			<week>6</week>
+			<week>8</week>
+			<week>10</week>
+			<week>12</week>
+			<week>14</week>
+			<week>16</week>
+		</weeks>
+		<time>
+			<week>start: 13:30</week>
+			<week>end: 15:00</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>1415</room>
+		</place>
+		<lecturer>
+			<surname>Балакшин</surname>
+			<name>Павел</name>
+			<lastname>Валерьевич</lastname>
+		</lecturer>
+	</pair>
+	<pair>
+		<day>Суббота</day>
+		<type>Лабораторная</type>
+		<pair_name>Информатика</pair_name>
+		<weeks>
+			<week>2</week>
+			<week>4</week>
+			<week>6</week>
+			<week>8</week>
+			<week>10</week>
+			<week>12</week>
+			<week>14</week>
+			<week>16</week>
+		</weeks>
+		<time>
+			<week>start: 15:20</week>
+			<week>end: 16:50</week>
+		</time>
+		<time>visit: fulltime and distance</time>
+		<place>
+			<week>body: Кронверкский пр., д.49, лит.А</week>
+			<room>1415</room>
+		</place>
+		<lecturer>
+			<surname>Балакшин</surname>
+			<name>Павел</name>
+			<lastname>Валерьевич</lastname>
+		</lecturer>
+	</pair>
+</schedule>
