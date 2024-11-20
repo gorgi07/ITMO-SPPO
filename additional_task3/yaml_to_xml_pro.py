@@ -144,7 +144,7 @@ class YamlToXmlParserPro:
 
 if __name__ == '__main__':
     try:
-        parser = YamlToXmlParserPro("C:/Users/erokh/PycharmProjects/Lab4/data/Input.yaml")
+        parser = YamlToXmlParserPro("C:/Users/erokh/PycharmProjects/Lab4/data/resultFinal_main.yaml")
         parser.convert_to_xml()
         print("Конвертация успешно завершена")
     except:
