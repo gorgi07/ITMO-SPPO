@@ -1,0 +1,28 @@
+<all>
+  <application>
+    <name>My Web App</name>
+    <environment>production</environment>
+    <maintenance_mode>false</maintenance_mode>
+  </application>
+  <routes>
+    <path>/</path>
+    <controller>HomeController</controller>
+    <action>index</action>
+  </routes>
+  <routes>
+    <path>/login</path>
+    <controller>AuthController</controller>
+    <action>login</action>
+  </routes>
+  <cache>
+    <enabled>true</enabled>
+    <ttl>3600</ttl>
+  </cache>
+  <email>
+    <smtp_server>smtp.example.com</smtp_server>
+    <port>587</port>
+    <username>email_user</username>
+    <password>email_password</password>
+    <use_tls>true</use_tls>
+  </email>
+</all>
