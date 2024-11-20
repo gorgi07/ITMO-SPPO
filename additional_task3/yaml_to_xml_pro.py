@@ -20,8 +20,8 @@ class YamlToXmlParserPro:
             if yaml_doc[i].strip().startswith("#"):
                 yaml_doc[i] = ""
             elif "#" in yaml_doc[i]:
-                yaml_doc[i] = yaml_doc[i].split("#")[0]
-
+                yaml_doc[i] = yaml_doc[i].split("#")[0].rstrip()
+        yaml_doc = [i for i in yaml_doc if i != ""]
         for i in range(len(yaml_doc)):
             if yaml_doc[i].strip().startswith("- "):
                 indent = (len(yaml_doc[i]) - len(yaml_doc[i].replace("-", " ").strip())) // 2
@@ -33,7 +33,6 @@ class YamlToXmlParserPro:
                             yaml_doc[j] = yaml_doc[j][2:]
                     last_indent_split = indent - 1
         yaml_doc = [i for i in yaml_doc if i != ""]
-
         return yaml_doc
 
     def convert_to_xml(self, new_file=False):
@@ -144,7 +143,7 @@ class YamlToXmlParserPro:
 
 if __name__ == '__main__':
     try:
-        parser = YamlToXmlParserPro("C:/Users/erokh/PycharmProjects/Lab4/data/resultFinal_main.yaml")
+        parser = YamlToXmlParserPro("C:/Users/erokh/PycharmProjects/Lab4/data/Input.yaml")
         parser.convert_to_xml()
         print("Конвертация успешно завершена")
     except:
